@@ -3,11 +3,11 @@
 
 This is a simple circuit and code to add some LEDs and a piezo buzzer to a prop (I used a Halloween pumpkin). In this code, you will see the basics of:
 
-*Defining variables and constants
-*Setting up the pin modes
-*Reading a sensor
-*Checking using an _if_ statement
-*Writing a custom function
+	*Defining variables and constants
+	*Setting up the pin modes
+	*Reading a sensor
+	*Checking using an _if_ statement
+	*Writing a custom function
 
 Should work on most Arduinos but tested on an UNO R3.
 
